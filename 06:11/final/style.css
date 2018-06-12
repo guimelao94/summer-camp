@@ -1,0 +1,46 @@
+/*
+We will use this class to place things nicely in the center of the screen
+*/
+.mainBox{
+    margin-top:200px;    
+
+}
+
+.mainBox h1{
+    background-color: rgba(3, 3, 3, 0.712);
+    color:white;
+    padding-left: 10px;
+}
+
+.mainBox .box-content{
+
+    background-color: rgba(106, 167, 106, 0.644);
+}
+
+.box-content img{
+    max-width:200px;
+    max-height: 200px;
+}
+
+.topic{
+    margin-top:10px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.664);
+}
+
+.topic p{
+    font-size: 20px;
+}
+
+.topic:hover{
+    background-color: rgba(253, 253, 253, 0.842);
+    margin-top:10px;
+    padding: 10px;
+}
+.topic:hover img{
+    max-width:230px;
+    max-height: 230px;
+}
+
+
+
