@@ -1,0 +1,15 @@
+1- Create new index.html file in this folder.
+    * Right click on top of the folder name and click on New File.
+    * Name the file index.html
+2- Create starter html template.
+    * Type html and several options will display.
+    * Select the option that says html:5 by pressing the down arrow twice and pressing the "Tab" key.
+3- Customize starter template.
+    * Change the title to "Exercise 1"
+    * Add a heading with your name.
+        - For example: <h1> Mr. G </h1>
+        ** To add elements quick just type the element's name and press tab. This will
+        create the opening and closing tags.
+4- Preview the website.
+    * Press F5 to preview the website on the browser.
+5- Close folder by clicking on File then Close Folder.

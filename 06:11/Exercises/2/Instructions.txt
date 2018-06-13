@@ -1,0 +1,14 @@
+1- Create new index.html file in this folder.
+    * Right click on top of the folder name and click on New File.
+    * Name the file index.html
+2- Create starter html template.
+    * Type html and several options will display.
+    * Select the option that says html:5 by pressing the down arrow twice and pressing the "Tab" key.
+3- Add an image to the body.
+    * Inside of the body type img then press tab to create an image element.
+    * Modify the source attribute to display the location of the cat image inside this folder.
+4- Add a paragraph below the image with a description of the image.
+    * Type p and press enter to insert a paragraph.
+5- Preview the website.
+    * Press F5 to preview the website on the browser.
+6- Close folder by clicking on File then Close Folder.
