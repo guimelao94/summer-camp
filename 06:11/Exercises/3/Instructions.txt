@@ -73,4 +73,6 @@
     * At the end of this step your link element should look like this:
             <link rel="stylesheet" href="style.css">
 7- Save the index.html file, and preview the changes on Chrome.
+8- Stay tune for Exercise 4 where we will be adding pictures to the divisions and 
+   modifying the style using CSS.
 8- Close the folder.
