@@ -1,1 +1,76 @@
-1- Step 1
+1- Open the index.html file
+2- Create a section inside the body
+    * Right below the opening tag of the body insert a section
+    by typing "section" and pressing enter.
+    * Press enter again to make space to add content. You should now have
+    an empty line between the closing and opening tags of 'section'.
+3- Add an id to the section.
+    * Inside of the opening tag of section add an id attribute and name it 'inventory'
+        * To do this click right before the > in the opening tag and press space
+        * Type id and press enter
+        * Inside the quotation marks type 'inventory'
+    * At the end of this step your opening tag should look like this
+                    <section id="inventory">
+4- Add three divisions to the inventory section
+    * In the empty line between the opening and closing tags of the section element
+    type div and press enter.
+    * Repeat the previous step two more times until you have three divisions.
+    * At the end of this step your section should look like this:
+        <section id="inventory">
+
+            <div>
+
+            </div>
+
+            <div>
+
+            </div>
+            
+            <div>
+
+            </div>
+
+        </section>
+5- Create classes for each of the divisions
+    * Add a class to the first division and name it 'computers'
+    * Add a class to the second division and name it 'tables'
+    * Add a class to the third division and name it 'chairs'
+    * At the end of this step your divisions should look like this:
+            <div class="computers">
+
+            </div>
+
+            <div class="tables">
+
+            </div>
+            
+            <div class="chairs">
+
+            </div>
+6- Add a heading to each division with the division title
+    * Click inside of each division and add an h1 element to each of them.
+        * Add the h1 element by typing h1 and pressing enter.
+    * The h1 for the first division should say 'Computers'
+    * The h1 for the second division should say 'Tables'
+    * The h1 for the third division should say 'Chairs'
+    * At the end of this step your divisions should look like this:
+            <div class="computers">
+                <h1>Computers</h1>
+            </div>
+
+            <div class="tables">
+                <h1>Tables</h1>
+            </div>
+            
+            <div class="chairs">
+                <h1>Chairs</h1>
+            </div>
+7- Connect the index.html file with the style.css file.
+    * Inside the head right after the title element insert a link:css element.
+        * Click right after the end of the ending tag of the title and press enter to create a new line.
+        * In this new line type link and select the option that says css.
+    * Make sure that the href attribute is pointing to the style.css file.
+    * At the end of this step your link element should look like this:
+            <link rel="stylesheet" href="style.css">
+7- Save the index.html file, and preview the changes on Chrome.
+8- Close the folder.
