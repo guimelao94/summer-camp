@@ -1,0 +1,11 @@
+1- Open the index.html file. You will notice that it looks the same as the final product for our last exercise.
+2- Let's add some styles to it; to do so we need to open the style.css file.
+3- Inside the style.css file let's do the setup to add some style to the inventory section.
+    * Remember to add styles by ID we need to type a '#' and then the name of the ID followed by curly braces.
+4- Let's do the setup to add some style to the divisions inside our section.
+    * In this case we are adding style by class, so we need to type a '.' and then the name of the class 
+        followed by curly braces. You need to perform this step for each of the divisions.
+5- Now that we have everything setup follow my instructions in the front to make this website "Great Again" :).
+
+    
+
