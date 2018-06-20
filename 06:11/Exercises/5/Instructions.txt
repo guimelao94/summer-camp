@@ -1,0 +1,37 @@
+1- Open the index.html file. You will notice that it looks the same as the final product for our last exercise.
+2- For this exercise we will learn how to use a library called bootstrap, which was created by twitter to style websites.
+   To use bootstrap we need to link our website to three dependencies (files needed for bootstrap to function). These files are
+   jquery-3.3.1.min.js bootstrap.css and bootstrap.js.
+3- Link the website to the bootstrap.css file.
+    * Right below the title in the head of our website lets add the link by typing 'link:css' and pressing enter.
+    * Change the value of the href attribute from 'style.css' to 'bootstrap.css'
+4- Link the website to the bootstrap.js file
+    * At the very end of the body of the website in line 26 type 'script:src' and press enter.
+    * In the src attribute of the script type 'bootstrap.js'
+5- Link the website to the jquery-3.3.1.min.js file
+    * At the very end of the body of the website in line 26 type 'script:src' and press enter.
+    * In the src attribute of the script type 'jquery-3.3.1.min.js'
+6- We are now ready to start using bootstrap in our website. Let's add a division right below  the heading for each of our 
+    current divisions.
+    * Click at the end of each heading, press enter to create a new line below it, type div and press enter to add a division.
+    * For each new division add a class named 'row'.
+7- Let's add three columns inside each row.
+    * Create three divisions inside each of the divisions you just created.
+    * Add a class to each of these new divisions and name it col-4
+        Example: class="col-4"
+7- Inside of each of our new columns let's an image.
+    * To add an image simply type 'img' and press enter. Then set the 'src' attribute to the location of the image.
+    * These images can be found inside of the 'images' folder.
+        * To go inside of a folder, you need to type the folder name followed by '/'.
+        * Make sure that you add the images to their corresponding sections (Don't add a computer to the chairs division)
+8- As you can see the images are way too big. Let's fix it:
+    * Open the style.css file to change the height of the images.
+    * Since we want to change the height of all images, we can just make the changes to all the 'img' elements in our website.
+      When we make changes to an element we don't have to type anything in front of the name like we have to do for classes and 
+      id's.
+    * Inside of the css file simply type 'img' and open and close curly braces {}
+    * Inside of the curly braces set the width to 100% (This means that the image's width will fill the assigned area; no more
+        and no less)
+9- Go to https://getbootstrap.com/docs/4.1/utilities/colors/#background-color to learn about background colors with bootstrap.
+10- Add a background color to each of the headings.
+11- Preview the changes.
